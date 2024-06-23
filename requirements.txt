@@ -1,0 +1,4 @@
+undetected-chromedriver==3.5.3
+selenium==4.10.0
+requests==2.31.0
+yt-dlp==2023.7.6
